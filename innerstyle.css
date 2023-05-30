@@ -14,29 +14,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items:center;
-    /* background: linear-gradient(108.7deg, rgb(224, 235, 213) 8.1%, rgb(37, 148, 141) 91.2%); */
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    /* background: linear-gradient(90.7deg, rgb(255, 253, 218) 1.9%, rgb(246, 210, 255) 39.3%, rgb(152, 222, 254) 64.7%, rgb(251, 255, 210) 100.8%); */
-    /* background: linear-gradient(76.5deg, rgb(129, 252, 255) 0.4%, rgb(255, 175, 207) 49.8%, rgb(255, 208, 153) 98.6%); */
-    /* background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%); */
-    /* background: linear-gradient(89.9deg, rgb(208, 246, 255) 0.1%, rgb(255, 237, 237) 47.9%, rgb(255, 255, 231) 100.2%); */
-    /* background-color: #FFDEE9;
-    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%); */
-    /* background: url('https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-7130560.jpg&fm=jpg'); */
-    /* background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-pure-pink-purple-watercolor-gradient-background-picture-image_949303.jpg');
-    background-image: url('https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149007819.jpg');
-   background-image: url('https://images.template.net/75783/Free-Pastel-aesthetic-iphone-background-01-1.jpg'); */
-   /* background-image: url('https://static.vecteezy.com/system/resources/previews/016/706/387/original/abstract-purple-watercolor-background-aesthetic-ink-painting-free-vector.jpg'); */
-   /* background-image: url('https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148917405.jpg?q=10&h=200'); */
-   /* background-image: url('https://img.freepik.com/premium-vector/green-powder-pastel-with-hand-drawn-elements-background_168102-280.jpg'); */
-   /* background-image: url('https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg'); */
-    /* background-image: url('https://wallpapers.com/images/featured/8kgg4q470wnbyz3x.jpg'); */
-  /* background-image: url('https://www.creativefabrica.com/wp-content/uploads/2022/08/11/Pastel-sky-watercolor-background-painted-Graphics-35976760-1-1-580x386.jpg');  */
-  /* background: linear-gradient(to right, #ffdb5c, #ffb961, #ff9966, #ff80a1, #ff7fd4); */
-/* background-image: url('https://img.freepik.com/free-vector/watercolor-pink-abstract-shapes-background_23-2149080627.jpg'); */
-/* background-image: url('https://img.freepik.com/premium-vector/pastel-purple-watercolor-background-design-texture_199112-852.jpg');   */
-/* background-image: url('https://i.pinimg.com/736x/d3/fc/8c/d3fc8c890702b78058a5772310d3ddda.jpg'); */
-/* background-image: url('https://t4.ftcdn.net/jpg/02/83/13/61/360_F_283136113_b3VRHNiOPFMOluzYJPpfuoH8Czh9c743.jpg'); */
 background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218batch9-aum-06_1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=3b3f33a625c79449938bd4196767f3a9');
 background-repeat: no-repeat;
     background-position: center;
