@@ -28,9 +28,9 @@ function convertUnits (){
     (convertFrom.value ==='Millisecond') && (convertTo.value ==='Millisecond') ||
     (convertFrom.value ==='Minute') && (convertTo.value ==='Minute') ||
     (convertFrom.value ==='Hour') && (convertTo.value ==='Hour') ||
-    (convertFrom.value ==='Day') && (convertTo.value ==='Day')
-    (convertFrom.value ==='Week') && (convertTo.value ==='Week')
-    (convertFrom.value ==='Month') && (convertTo.value ==='Month')
+    (convertFrom.value ==='Day') && (convertTo.value ==='Day')||
+    (convertFrom.value ==='Week') && (convertTo.value ==='Week')||
+    (convertFrom.value ==='Month') && (convertTo.value ==='Month')||
     (convertFrom.value ==='Year') && (convertTo.value ==='Year')
    ){
    result.value=length1.value;
@@ -111,7 +111,7 @@ function convertUnits (){
     result.value=length1.value*60;
    }
    else if(
-    (convertFrom.value ==='Minute') && (convertTo.value ==='Milliseconds')
+    (convertFrom.value ==='Minute') && (convertTo.value ==='Millisecond')
    ){
     result.value=length1.value*60000;
    }
@@ -231,7 +231,7 @@ function convertUnits (){
     result.value=length1.value*4.345;
    }
    else if(
-    (convertFrom.value ==='Month') && (convertTo.value ==='Milliseconds')
+    (convertFrom.value ==='Month') && (convertTo.value ==='Millisecond')
    ){
     result.value=length1.value*2629800000;
    }
@@ -271,7 +271,7 @@ function convertUnits (){
     result.value=length1.value*12;
    }
    else if(
-    (convertFrom.value ==='Year') && (convertTo.value ==='Milliseconds')
+    (convertFrom.value ==='Year') && (convertTo.value ==='Millisecond')
    ){
     result.value=length1.value*31556926000;
    }
@@ -294,6 +294,7 @@ function convertUnits (){
     (convertFrom.value ==='Day') && (convertTo.value ==='Hour')
    ){
     result.value=length1.value*24;
+
    }
    else if(
     (convertFrom.value ==='Day') && (convertTo.value ==='Week')
@@ -311,7 +312,7 @@ function convertUnits (){
     result.value=length1.value/365;
    }
    else if(
-    (convertFrom.value ==='Day') && (convertTo.value ==='Milliseconds')
+    (convertFrom.value ==='Day') && (convertTo.value ==='Millisecond')
    ){
     result.value=length1.value*86400000;
    }
